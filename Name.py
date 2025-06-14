@@ -9,5 +9,4 @@ def givename():
             else:
                 name = "Carmen \n"
             f.write(name)
-givename()
 

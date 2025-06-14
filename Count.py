@@ -8,4 +8,4 @@ def count():
                 d[name] += 1
             else:
                 d[name] = 1
-count()
+    print(d)
